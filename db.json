@@ -1,4 +1,4 @@
-let catalog = [
+{
     {
     img: "img/elem1.webp",
     heading: "Helmet AGV",
@@ -180,6 +180,6 @@ let catalog = [
     name: "Pista GP RR Rossi Soleluna Winter Test 2020 Limited Edition",
     price: `£ ${1455}`  
 }
-]
 
+}
 
