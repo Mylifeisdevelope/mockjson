@@ -1,0 +1,185 @@
+let catalog = [
+    {
+    img: "img/elem1.webp",
+    heading: "Helmet AGV",
+    name: "K-1 Matt Black",
+    price: `£ ${134}`
+},
+{
+    img: "img/elem2.webp",
+    heading: "Helmet ARAI",
+    name: "RX-7V Isle of Man TT 2020 Limited Edition",
+    price: `£ ${994}`  
+},
+{
+    img: "img/elem3.webp",
+    heading: "Helmet AGV",
+    name: "Pista GP RR Rossi Essenza 46",
+    price: `£ ${1455}`  
+},
+{
+    img: "img/elem4.webp",
+    heading: "Helmet AGV",
+    name: "Pista GP RR Rossi Soleluna 2019",
+    price: `£ ${1455}`  
+},
+{
+    img: "img/elem5.webp",
+    heading: "Helmet ARAI",
+    name: "RX-7V Honda NSR 250R 92 Limited Edition",
+    price: `£ ${896}`  
+},
+{
+    img: "img/elem6.webp",
+    heading: "Helmet SHARK",
+    name: "Race-R Pro GP Replica Lorenzo Winter Test 2019 Limited Edit…",
+    price: `£ ${682}`  
+}
+,
+{
+    img: "img/elem7.webp",
+    heading: "Helmet ARAI",
+    name: "RX-7V Rea Gold",
+    price: `£ ${896}`  
+},
+{
+    img: "img/elem8.webp",
+    heading: "Helmet SHARK",
+    name: "Race-R Pro GP FIM Racing #1 Carbon / Black / Carbon",
+    price: `£ ${761}`  
+},
+{
+    img: "img/elem9.webp",
+    heading: "Helmet ARAI",
+    name: "RX-7V Rea Green",
+    price: `£ ${896}`  
+},
+{
+    img: "img/elem10.webp",
+    heading: "Helmet ARAI",
+    name: "RX-7V Maverick Viñales 12",
+    price: `£ ${896}`  
+},
+{
+    img: "img/elem11.webp",
+    heading: "Helmet ARAI",
+    name: "RX-7V Crutchlow",
+    price: `£ ${840}`  
+},
+{
+    img: "img/elem12.webp",
+    heading: "Helmet AGV",
+    name: "Pista GP RR Matt Carbon",
+    price: `£ ${1137}`  
+},
+{
+    img: "img/elem13.webp",
+    heading: "Helmet ARAI",
+    name: "RX-7V Doohan TT",
+    price: `£ ${864}`  
+},
+{
+    img: "img/elem14.webp",
+    heading: "Helmet ARAI",
+    name: "RX-7V Black",
+    price: `£ ${712}`  
+},
+{
+    img: "img/elem15.webp",
+    heading: "Helmet SHOEI",
+    name: "X-Spirit 3 Marquez America TC-2",
+    price: `£ ${790}`  
+},
+{
+    img: "img/elem16.webp",
+    heading: "Helmet AGV",
+    name: "Corsa R Supersport Black / White / Lime",
+    price: `£ ${473}`  
+},
+{
+    img: "img/elem17.webp",
+    heading: "Helmet AGV",
+    name: "Corsa R Supersport Blue / Red / Yellow",
+    price: `£ ${473}`  
+},
+{
+    img: "img/elem18.webp",
+    heading: "Helmet AGV",
+    name: "Corsa R Matt Black",
+    price: `£ ${494}`  
+},
+{
+    img: "img/elem19.webp",
+    heading: "Helmet SHARK",
+    name: "Race-R Pro Carbon Replica Lorenzo 2019 Carbon / Blue / Red",
+    price: `£ ${634}`  
+},
+{
+    img: "img/elem20.webp",
+    heading: "Helmet ARAI",
+    name: "RX-7V Black",
+    price: `£ ${712}`  
+},
+{
+    img: "img/elem21.webp",
+    heading: "Helmet AGV",
+    name: "Corsa R Miller 2018",
+    price: `£ ${737}`  
+},
+{
+    img: "img/elem22.webp",
+    heading: "Helmet SHARK",
+    name: "Race-R Pro GP 30TH Anniversary LE Red / Carbon / Black",
+    price: `£ ${803}`  
+},
+{
+    img: "img/elem23.webp",
+    heading: "Helmet SHARK",
+    name: "Race-R Pro GP 30TH Anniversary LE Black / Carbon / Pearl",
+    price: `£ ${803}`  
+},
+{
+    img: "img/elem24.webp",
+    heading: "Helmet ARAI",
+    name: "RX-7V Honda RC30",
+    price: `£ ${896}`  
+},
+{
+    img: "img/elem25.webp",
+    heading: "Helmet SHOEI",
+    name: "NXR Matt Black",
+    price: `£ ${896}`  
+},
+{
+    img: "img/elem26.webp",
+    heading: "Helmet SHOEI",
+    name: "NXR White",
+    price: `£ ${390}`  
+},
+{
+    img: "img/elem27.webp",
+    heading: "Helmet AGV",
+    name: "Pista GP RR Scuderia Carbon / White / Red",
+    price: `£ ${798}`  
+},
+{
+    img: "img/elem28.webp",
+    heading: "Helmet HJC",
+    name: "RPHA 11 Venom 2 Marvel MC-1",
+    price: `£ ${560}`  
+},
+{
+    img: "img/elem29.webp",
+    heading: "Helmet HJC",
+    name: "RX-7V Schwantz Pepsi",
+    price: `£ ${840}`  
+},
+{
+    img: "img/elem30.webp",
+    heading: "Helmet AGV",
+    name: "Pista GP RR Rossi Soleluna Winter Test 2020 Limited Edition",
+    price: `£ ${1455}`  
+}
+]
+
+
